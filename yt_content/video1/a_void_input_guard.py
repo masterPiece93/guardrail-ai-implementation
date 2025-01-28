@@ -2,8 +2,8 @@
 Basic : input guard
 
 The Gurad in following example does nothing .
-This is just for demonstration purpose to show how the working components
-    fall into place .
+This is just for demonstration purpose to show how each working 
+    components fall into place .
 """
 from guardrails import Guard
 from rich import print
