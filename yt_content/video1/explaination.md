@@ -1,1 +1,1 @@
-![](./diagram1.drawio.png)
+![](./static/diagram1.drawio.png)
